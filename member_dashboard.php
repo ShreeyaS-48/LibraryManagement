@@ -142,7 +142,7 @@
             <a href="issue_request.php" class="text-decoration-none">
                 <div class="card box-card bg-dark text-white text-center shadow">
                     <div class="card-body d-flex align-items-center justify-content-center">
-                    <h5 class="card-title fs-3">Request Book</h5>
+                    <h5 class="card-title fs-3">Check Book Availability</h5>
                     </div>
                 </div>
             </a>
